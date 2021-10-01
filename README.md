@@ -4,10 +4,11 @@
 
 # < Hello World 👋 />
 
-[![Linkedin Badge](https://img.shields.io/badge/-ardhptr21-0961b8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ardhptr21/)](https://www.linkedin.com/in/ardhptr21/)
-[![Instagram Badge](https://img.shields.io/badge/-ardhptr21-da0050?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ardhptr21/)](https://www.instagram.com/ardhptr21/)
-[![Twitter Badge](https://img.shields.io/badge/-ardhptr21-1c99e7?style=flat-square&logo=Twitter&logoColor=white&link=https://www.instagram.com/ardhptr21/)](https://www.instagram.com/ardhptr21/)
-[![Gmail Badge](https://img.shields.io/badge/-ardhiputrapradana21@gmail.com-cd483c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ardhiputrapradana21@gmail.com)](mailto:ardhiputrapradana21@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhptr21/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ardhptr21/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ardhptr21/)
+[![Gmail Badge](https://img.shields.io/badge/EMAIL-FE7A16?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardhiputrapradana21@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/GitHub_Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/ardhptr21)
 
 </div>
 
