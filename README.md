@@ -9,6 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ardhptr21/)
 [![Gmail Badge](https://img.shields.io/badge/EMAIL-FE7A16?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardhiputrapradana21@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/GitHub_Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/ardhptr21)
+[![](https://visitcount.itsvg.in/api?id=ardhptr21&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
