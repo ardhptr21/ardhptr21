@@ -1,18 +1,39 @@
 <div align="center">
-
-# < Hello World 👋 />
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhptr21/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ardhptr21/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ardhptr21/)
-[![Gmail Badge](https://img.shields.io/badge/EMAIL-FE7A16?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardhiputrapradana21@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/GitHub_Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/ardhptr21)
-[![](https://visitcount.itsvg.in/api?id=ardhptr21&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
+  <img src="https://i.imgflip.com/9kqjnj.jpg"  />
 </div>
 
-# Who is me ? 🤨
+###
 
-```
-I don't know my self either
-```
+<h1 align="center">Hi! Ardhi's here 🙋‍♂️</h1>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ardhptr21.ardhptr21&"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ardhptr21" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ardhptr21/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/ardhptr21" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardhptr21&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="142" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ardhptr21&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="141" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardhptr21&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
